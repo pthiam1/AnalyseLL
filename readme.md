@@ -39,6 +39,8 @@ fin
 ```
 > D'autres programmes peuvent être testés, mais ils doivent respecter la grammaire ci-dessus.
 
+## Interface
+![alt text](image-1.png)
 ## Fonctionnalités
 - [ ] Lire un fichier texte contenant le programme source.
 - [ ] Vérifier la conformité du programme source à la grammaire spécifiée.
